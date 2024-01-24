@@ -1,0 +1,13 @@
+[14-10-2021 20:14:38] ZIP Reader Version 14.00.0010 Build 1029
+[14-10-2021 20:14:38] Loading C:\Python_Basics\BOKEH\archive (2).zip
+	0 errors/warnings
+[14-10-2021 20:14:38] Finished.
+[14-10-2021 20:14:38] Extracting C:\Python_Basics\BOKEH\archive (2).zip
+	Inflating C:\Python_Basics\BOKEH\archive (2)\country_vaccinations.csv
+		CRC32 verified
+	Inflating C:\Python_Basics\BOKEH\archive (2)\country_vaccinations_by_manufacturer.csv
+		CRC32 verified
+	Extracted 2 file(s)/folder(s)
+	Skipped 0 file(s)/folder(s)
+	0 errors/warnings
+[14-10-2021 20:14:38] Finished.
